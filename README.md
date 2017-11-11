@@ -11,3 +11,5 @@ Java : https://www.youtube.com/watch?v=SSmB_HA0edc&list=PLonJJ3BVjZW6_q8gh7XoLUI
 3.Website for Learning
 
     java Point: https://www.javatpoint.com/ 
+
+    AI: http://colah.github.io/
