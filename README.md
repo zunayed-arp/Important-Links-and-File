@@ -19,3 +19,5 @@ Java : https://www.youtube.com/watch?v=SSmB_HA0edc&list=PLonJJ3BVjZW6_q8gh7XoLUI
     http://adnan.quaium.com/ubuntu
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/lecture-notes/
+
+http://java-design-patterns.com/patterns/
